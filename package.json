@@ -1,0 +1,29 @@
+{
+  "name": "myexpressrestapi",
+  "version": "1.0.0",
+  "description": "Learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RupomAhsan/myExpressRestAPI.git"
+  },
+  "keywords": [
+    "REST API",
+    "EXPRESSjs"
+  ],
+  "author": "Rupom Ahsan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RupomAhsan/myExpressRestAPI/issues"
+  },
+  "homepage": "https://github.com/RupomAhsan/myExpressRestAPI#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
